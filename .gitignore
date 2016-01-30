@@ -2,3 +2,4 @@ bin/**
 db-data/**
 node_modules/**
 npm-debug.log/**
+public/lib/**
